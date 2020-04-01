@@ -14,3 +14,5 @@ Problems solved:
 10. Summation of primes
 11. Largest product in a grid
 12. Highly divisible triangular number (2 methods)
+
+27 Quadratic primes

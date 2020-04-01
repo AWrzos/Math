@@ -4,18 +4,17 @@
 # we can see that the 6th prime is 13.
 # What is the 10 001st prime number?
 # liczba 2 ma indeks 1
-indeks=2
-liczba=3
-spis={1:2}
+indeks = 2
+liczba = 3
+spis = {1: 2}
 while indeks <= 10001:
-    pierwsza=True
-    for dzielnik in range(2,liczba):
+    pierwsza = True
+    for dzielnik in range(2, liczba):
         if liczba % dzielnik == 0:
-            pierwsza=False
+            pierwsza = False
             pass
-    if pierwsza==True:
-        spis[indeks]=liczba
-        indeks+=1
-    liczba+=1
+    if pierwsza == True:
+        spis[indeks] = liczba
+        indeks += 1
+    liczba += 1
 print(spis[10001])
-

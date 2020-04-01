@@ -7,8 +7,8 @@
 # Find the product abc
 
 for a in range(1, 998):
-    for b in range(2,998):
-        if a<b:
-            c=1000-a-b
-            if a**2+b**2==c**2:
-                print("Liczby to: ", a, b, c, ", a ich produkt: ", a*b*c)
+    for b in range(2, 998):
+        if a < b:
+            c = 1000 - a - b
+            if a ** 2 + b ** 2 == c ** 2:
+                print("Liczby to: ", a, b, c, ", a ich produkt: ", a * b * c)
