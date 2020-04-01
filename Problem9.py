@@ -1,5 +1,3 @@
-# Special Pythagorean triplet
-# Problem 9
 # A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
 # a^ + b^ = c^
 # For example, 3^ + 4^ = 9 + 16 = 25 = 5^.

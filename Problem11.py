@@ -1,5 +1,3 @@
-# Largest product in a grid
-# Problem 11
 # Treść zadania na dodatkowym zdjęciu.
 # Dane obrobione w innym programie.
 tablica = [[8, 2, 22, 97, 38, 15, 0, 40, 0, 75, 4, 5, 7, 78, 52, 12, 50, 77, 91, 8],
