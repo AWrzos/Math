@@ -1,7 +1,7 @@
 # projectEuler
 Hobbistycznie rozwiązane zadania ze strony https://projecteuler.net
 
-Zadania:
+Problems solved:
 1. Multiples of 3 and 5
 2. Even Fibonacci numbers
 3. Largest prime factor
@@ -13,3 +13,4 @@ Zadania:
 9. Special Pythagorean triplet
 10. Summation of primes
 11. Largest product in a grid
+12. Highly divisible triangular number (2 methods)
