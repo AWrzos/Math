@@ -14,6 +14,10 @@ Problems solved:
 10. Summation of primes
 11. Largest product in a grid
 12. Highly divisible triangular number (2 methods)
+13. Large Sum
+14. Longest Collatz sequence
+15. Lattice Paths
+16. Power Digit Sum
 
 27 Quadratic primes
 
