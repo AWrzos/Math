@@ -17,7 +17,9 @@ Problems solved:
 13. Large Sum
 14. Longest Collatz sequence
 15. Lattice Paths
-16. Power Digit Sum
+16. Power digit sum
+17. Number letter counts
+
 
 27 Quadratic primes
 
