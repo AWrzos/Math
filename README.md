@@ -19,9 +19,19 @@ Problems solved:
 15. Lattice Paths
 16. Power digit sum
 17. Number letter counts
-
-
-27 Quadratic primes
+18. Maximum path sum I (UNSOLVED)
+19. Counting Sundays
+20. Factorial digit sum
+21. Amicable numbers
+22. Names scores (UNSOLVED)
+23. Non-abundant sums (UNSOLVED)
+24. Lexicographic permutations (UNSOLVED)
+25. 1000-digit Fibonacci number (UNSOLVED)
+26. Reciprocal cycles (UNSOLVED)
+27. Quadratic primes
+28. Number spiral diagonals (UNSOLVED)
+29. Distinct powers (UNSOLVED)
+30. Digit fifth powers (UNSOLVED)
 
 81 Path sum: two ways
 
