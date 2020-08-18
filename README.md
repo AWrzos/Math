@@ -24,7 +24,7 @@ Problems solved:
 20. Factorial digit sum
 21. Amicable numbers
 22. Names scores (UNSOLVED)
-23. Non-abundant sums (UNSOLVED)
+23. Non-abundant sums 
 24. Lexicographic permutations (UNSOLVED)
 25. 1000-digit Fibonacci number (UNSOLVED)
 26. Reciprocal cycles (UNSOLVED)
