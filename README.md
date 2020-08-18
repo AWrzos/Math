@@ -36,4 +36,4 @@ Problems solved:
 81 Path sum: two ways
 
 
-** do poprawki
+** correction required
