@@ -26,7 +26,7 @@ Problems solved:
 22. Names scores (UNSOLVED)
 23. Non-abundant sums 
 24. Lexicographic permutations 
-25. 1000-digit Fibonacci number (UNSOLVED)
+25. 1000-digit Fibonacci number 
 26. Reciprocal cycles (UNSOLVED)
 27. Quadratic primes
 28. Number spiral diagonals (UNSOLVED)
