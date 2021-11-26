@@ -1,3 +1,5 @@
+import time
+
 # In the United Kingdom the currency is made up of pound (£) and pence (p). There are eight coins in general circulation:
 # #
 # # 1p, 2p, 5p, 10p, 20p, 50p, £1 (100p), and £2 (200p).
@@ -18,28 +20,22 @@
 possibleways=200*100*40*20*10*4*2
 
 counter = 1 # 1x£2
+
+
+t=time.time()
 sum=0
-i=0
+for G in range(0,2+1):
+    for F in range(0,4+1):
+        for E in range(0,10+1):
+            for D in range(0,20+1):
+                for C in range(0,40+1):
+                    for B in range(0,100+1):
+                        for A in range(0,200+1):
+                            sum=G * 100 + F * 50 + E * 20 + D * 10 + C * 5 + B * 2 + A
+                            if sum==200:
+                                counter+=1
+                                print(G,F,E,D,C,B,A,counter)
+time=time.time()-t
+print(counter, ", czas: ", time)
 
-While i<possibleways:
-    sum=0
-    for G in range(0,2+1):
-        for F in range(0,4+1):
-            for E in range(0,10+1):
-                for D in range(0,20+1):
-                    for C in range(0,40+1):
-                        for B in range(0,100+1):
-                            for A in range(0,200+1):
-                                sum=G * 100 + F * 50 + E * 20 + D * 10 + C * 5 + B * 2 + A
-                                if sum==200:
-                                    counter+=1
-    i+=1
-
-
-
-
-
-
-
-
-print("odp: ", counter)
+# 73682 , czas:  3465.274468421936
