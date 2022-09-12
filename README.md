@@ -27,11 +27,11 @@ Problems solved:
 23. Non-abundant sums 
 24. Lexicographic permutations 
 25. 1000-digit Fibonacci number 
-26. Reciprocal cycles (UNSOLVED)
+26. Reciprocal cycles
 27. Quadratic primes
 28. Number spiral diagonals (UNSOLVED)
 29. Distinct powers (UNSOLVED)
-30. Digit fifth powers (UNSOLVED)
+30. Digit fifth powers
 
 81 Path sum: two ways
 
